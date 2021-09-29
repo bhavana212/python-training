@@ -1,0 +1,4 @@
+n= str(input("enter name"))
+g =str(input(" enter age"))
+year = str((2021 - g)+100)
+print(n+' '+ "will turn 100 years old in the year " +year)
